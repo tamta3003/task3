@@ -1,0 +1,31 @@
+.Html{
+	width: 90px;
+	height:45px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.poi{
+	list-style-type: none;
+	font-size: 17px;
+	color: skyblue;
+}
+.rty{
+	color: red
+	font-size:17px;
+}
+.span{
+	font-size: 35px;
+	color:blue;
+}
+.p{
+	font-size:20px;
+	color:blue;
+}
+.h1{
+  font-size:30px;
+	color:blue;
+}
+.h2{
+	  font-size:25px;
+	color:black;
+}
